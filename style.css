@@ -1,10 +1,30 @@
+*{
+     margin:0px auto;
+}
+
+html {
+  text-align: center;
+}
+
 body {
     background-image: url("Rain_2.jpg");
     background-size: 100% auto;
-    
+
+    text-align: center;
+}
    
+h1 {
+    background-color: #6495ed;
 }
 
  p{
     COLOR: #3050ff;
+    background-color: #e0ffff;
+     width: 700px;
+     text-align: center;
     }
+
+ a {
+     color: #ff8c00;
+ }
+ 
